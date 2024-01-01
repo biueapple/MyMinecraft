@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83ab908a61b59d84ca39b6ffc69bac87, type: 3}
+  m_Name: LeatherHelmet
+  m_EditorClassIdentifier: 
+  data:
+    name: LeatherHelmet
+    id: 3
+    stackable: 0
+    hardness:
+      type: 0
+      hard: 1
+    type: 2
+    rating: 0
+    description: "\uAC00\uC8FD \uD5EC\uBA67"
+  sprite: {fileID: 1081292845, guid: bfcc571b80ed44e45a7940ed5b18976f, type: 3}
+  model: {fileID: 8035059714501957086, guid: 756c5a2437b43c94faf9d77134bf5509, type: 3}
+  ratings: 010000000200000003000000
+  buffs:
+  - attribute: 0
+    value: 0
+    min: 2
+    max: 3
+    levelFigure: 1
+  - attribute: 2
+    value: 0
+    min: 2
+    max: 3
+    levelFigure: 1
+  - attribute: 4
+    value: 0
+    min: 2
+    max: 3
+    levelFigure: 1

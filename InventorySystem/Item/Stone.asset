@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 326f305bdd9636c4989c27e8177b1c7f, type: 3}
+  m_Name: Stone
+  m_EditorClassIdentifier: Assembly-CSharp::InstallItemOjbect
+  data:
+    name: "\uB3CC"
+    id: 1
+    stackable: 1
+    hardness:
+      type: 0
+      hard: 0
+    type: 0
+    rating: 0
+    description: 
+  sprite: {fileID: 1041518243, guid: bfcc571b80ed44e45a7940ed5b18976f, type: 3}
+  model: {fileID: 7760378911155645933, guid: 688fd0364bb274645b448ffff91e6b93, type: 3}
+  ratings: 
+  blockIndex: 1

@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: feb106a5a98820141a95c0ce19f80cad, type: 3}
+  m_Name: WoodenSword
+  m_EditorClassIdentifier: 
+  data:
+    name: Wooden Sword
+    id: 4
+    level: 0
+    stackable: 0
+    hardness:
+      type: 0
+      hard: 1
+    type: 6
+    rating: 0
+    description: "\uB098\uBB34 \uAC80\uC774\uB2E4"
+  sprite: {fileID: 1897134338, guid: bfcc571b80ed44e45a7940ed5b18976f, type: 3}
+  model: {fileID: 8593155235562758039, guid: 1ef595eeff5491d4ba91017569d9bd2d, type: 3}
+  ratings: 000000000100000002000000
+  buffs:
+  - attribute: 0
+    value: 0
+    min: 2
+    max: 5
+    levelFigure: 1
+  - attribute: 4
+    value: 0
+    min: 2
+    max: 5
+    levelFigure: 1
+  - attribute: 4
+    value: 0
+    min: 2
+    max: 5
+    levelFigure: 1
+  minDamage: 2
+  maxDamage: 5
+  levelDamage: 1
+  size: {x: 1, y: 1, z: 3}

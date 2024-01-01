@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6d7987eea83558b4ea7ac7ccd7e4f75c, type: 3}
+  m_Name: Fish
+  m_EditorClassIdentifier: 
+  data:
+    name: Fish
+    id: 2
+    level: 0
+    stackable: 1
+    hardness:
+      type: 0
+      hard: 1
+    type: 1
+    rating: 0
+    description: "\uBB3C\uACE0\uAE30"
+  sprite: {fileID: -116471469, guid: bfcc571b80ed44e45a7940ed5b18976f, type: 3}
+  model: {fileID: 2221064165275056008, guid: d37271d033a091e4e945cab95acefc7f, type: 3}
+  ratings: 
+  eatingTimer: 1.728
+  full: 3
+  soundIndex: 0

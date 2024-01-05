@@ -31,4 +31,10 @@ ArgumentNullException: Value cannot be null.
 
 Parameter name: _unity_self
 
-이 오류는 Audio Source 에서 나오는 오류임
+This has been fixed by an unknown PR.
+Confirmed that 2023.1.0b9 has the issue however later versions do not.
+Tested 2023.1.5f1, 2023.2.0b9 and 2023.3.0a1.
+
+Note: This bug is only looking into the error with regards to the preset window, not the error message in general which can occur under many different circumstances.
+
+

@@ -27,6 +27,8 @@ getComponumt가 불가능해서 곤란했지만 그냥 return (T)this를 했고 
 
 T 가 this가 불가능한 클래스일지도 모른다는게 gpt의 의견 그래서 try catch로 가능하면 this 아니면 null을 리턴하도록 함
 
+///////////////////////////////////////////////////////////////////////////////////////////
+
 ArgumentNullException: Value cannot be null. 
 
 Parameter name: _unity_self

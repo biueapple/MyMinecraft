@@ -37,4 +37,5 @@ Tested 2023.1.5f1, 2023.2.0b9 and 2023.3.0a1.
 
 Note: This bug is only looking into the error with regards to the preset window, not the error message in general which can occur under many different circumstances.
 
+스크립트블 오브젝트때문에 생기는 에러같음
 
